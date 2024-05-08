@@ -1,0 +1,10 @@
+POST http://20.244.56.144/test/register
+Content-Type: application/json
+
+{
+    "companyName": "AFFORDMED",
+    "ownerName": "Aditya Parida",
+    "rollNo": "2129009",
+    "ownerEmail": "2129009@kiit.ac.in",
+    "accessCode": "mjPQGJ"
+}
